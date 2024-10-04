@@ -20,3 +20,12 @@ However, since the elements 'Number 3' and 'Number 4' in the HTML file shar the 
     background-color: hsl(120, 100%, 75%);
     font-weight: bold;
 }
+
+.last-test {
+    background-color: yellow;
+}
+
+.last-font-test {
+    font-size: 44px;
+    font-weight: bold;
+}
